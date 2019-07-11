@@ -1,0 +1,9 @@
+com\xj\service\UserServiceImpl.class
+com\xj\web\controller\StudentController.class
+com\xj\dbconfig\DruidDBConfig.class
+com\xj\model\Student.class
+com\xj\model\User.class
+com\xj\App.class
+com\xj\web\controller\UserController.class
+com\xj\aop\WebLogAspect.class
+com\xj\mapper\UserMapper.class
